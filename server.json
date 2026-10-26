@@ -1,0 +1,8 @@
+{
+ "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+ "name": "io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/tether",
+ "title": "Eclipse Tether MCP",
+ "description": "Governed robot task authority \u2014 signed mandates, bounded envelopes, evidence for every task.",
+ "version": "0.1.0",
+ "websiteUrl": "https://eclipsebazaar.com"
+}
