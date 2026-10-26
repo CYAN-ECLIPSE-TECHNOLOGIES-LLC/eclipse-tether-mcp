@@ -1,0 +1,20 @@
+{
+ "classes": [
+  {
+   "robot_class": "ur_arm",
+   "max_speed_mps": 1.0,
+   "max_force_n": 150.0,
+   "max_payload_kg": 5.0,
+   "source_citation": "fixture table: UR5e-class published ratings, sim-stamped for P0 (not a safety claim)",
+   "table_version": "sim-1"
+  },
+  {
+   "robot_class": "spot_quadruped",
+   "max_speed_mps": 1.6,
+   "max_force_n": 0.0,
+   "max_payload_kg": 14.0,
+   "source_citation": "fixture table: Spot-class published ratings; adapter is P2, no P0 surface (spec \u00a74.2/\u00a710.2)",
+   "table_version": "sim-1"
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{
+ "estop": false,
+ "lease_grabbed_by_human": false,
+ "local_control": false,
+ "lease_holder": "bridge",
+ "heartbeat_ok": true,
+ "evidence_ok": true,
+ "note": "simulated vendor endpoints (class: fixture)"
+}

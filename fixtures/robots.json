@@ -1,0 +1,27 @@
+{
+ "robots": [
+  {
+   "serial": "UR5e-SIM-001",
+   "model": "UR5e (Gazebo model)",
+   "robot_class": "ur_arm",
+   "firmware_version": "sim-1.0.0",
+   "home_pose": [
+    0.0,
+    0.0,
+    0.5
+   ]
+  },
+  {
+   "serial": "UR5e-SIM-002",
+   "model": "UR5e (Gazebo model)",
+   "robot_class": "ur_arm",
+   "firmware_version": "sim-1.0.0",
+   "home_pose": [
+    0.0,
+    0.0,
+    0.5
+   ]
+  }
+ ],
+ "class_label": "fixture (simulated site; planner: sim)"
+}

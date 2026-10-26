@@ -1,0 +1,17 @@
+{
+ "note": "P0 TEST keys (class: fixture). Seeds present so fixtures and benches can mint Herald-shaped records; production custody is a gated decision.",
+ "herald_pubkey": "138c3cd543d8015a9316009e162b3c6efea9362e2cf47f8a8b2853482128046f",
+ "herald_seed": "6d80cad2c2967027fa46207209c25614a2d2424a76e383a0b27a4f1813e0f707",
+ "agents": {
+  "herald-card-w001": "7881640ab8002a4302a4a9f91306e0c71972e3c07179b000e0ecbd7bd7470e83"
+ },
+ "agent_seeds": {
+  "herald-card-w001": "8ccd5c0602e0f8b6b0e6975480e96d315b4f4a859ab9ccac87ee2c0af7209168"
+ },
+ "operators": {
+  "site-operator-1": "e53f99ad3d74da1377cbc434b71d0720323ce6aa71f5e26a796505dd67661827"
+ },
+ "operator_seeds": {
+  "site-operator-1": "d3019fc8dd12c47801bfd5291577cecca4a7e75531fbef96ff6113f5432cb348"
+ }
+}
